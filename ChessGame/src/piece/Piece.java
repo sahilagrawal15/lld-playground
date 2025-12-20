@@ -14,8 +14,8 @@ public class Piece {
         return this.color;
     }
 
-    public void move() {
-        // Implementation of move logic
+    public boolean move() {
+        return false;
     }
 
 

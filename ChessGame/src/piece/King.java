@@ -7,8 +7,8 @@ public class King extends Piece{
     {
         super();
     }
-public void move(){
-
+public boolean move(){
+    return false;
 }
 
 }
